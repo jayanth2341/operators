@@ -1,5 +1,5 @@
 """
-12)
+
  Finding the Slope of a Line
 Problem Statement
 Ajay and Binoy are curious about the slope of the line joining their houses. Given the coordinates of the 2 endpoints of a line (x1,y1)(x_1, y_1)(x1​,y1​) and (x2,y2)(x_2, y_2)(x2​,y2​), write a Python program to find the slope of the line.
